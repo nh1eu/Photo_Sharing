@@ -1,0 +1,16 @@
+.user-photo-container, .comment-container {
+  border: 1px solid #eee;
+  border-radius: 20px;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.comment-input {
+  padding: 8px;
+}
+
+.comment-btn {
+  background-color: aqua;
+  padding: 8px;
+  border-radius: 4px;
+}
